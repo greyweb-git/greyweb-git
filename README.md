@@ -1,3 +1,11 @@
+<h3 align="center">
+2
+  Welcome to greyweb's profile!
+3
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+4
+</h3>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?pause=500&width=500&lines=Hi+All%2C+I'm+greyweb!;I'm+a+3D+Designer+and+Front-end+Developer...)](https://git.io/typing-svg)
 ### 💻 Tech Stack:
 <img alt="html5" src="https://img.shields.io/badge/html-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=fff" />&nbsp;
