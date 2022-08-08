@@ -1,8 +1,9 @@
 <h3 align="center">Welcome to greyweb's profile!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?pause=500&width=500&lines=Hi+All%2C+I'm+greyweb!;I'm+a+3D+Designer+and+Front-end+Developer..." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?pause=500&width=500&lines=Hi+All%2C+I'm+greyweb!;I'm+a+3D+Designer+and+Front-     end+Developer..." alt="Typing SVG" /></a>
 </p>
+
 ### 💻 Tech Stack:
 <img alt="html5" src="https://img.shields.io/badge/html-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=fff" />&nbsp;
 <img alt="css3" src="https://img.shields.io/badge/css-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=fff" />&nbsp;
