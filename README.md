@@ -8,7 +8,7 @@
 <img alt="html5" src="https://img.shields.io/badge/html-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=fff" />&nbsp;
 <img alt="css3" src="https://img.shields.io/badge/css-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=fff" />&nbsp;
 <img alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=000" />&nbsp;
-### 🧰 Frameworks and libraries
+### 🧰 Frameworks and libraries:
 <img alt="sass" src="https://img.shields.io/badge/sass-CF649A.svg?&style=for-the-badge&logo=sass&logoColor=fff" />&nbsp;
 <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-7610F7.svg?&style=for-the-badge&logo=bootstrap&logoColor=fff" />&nbsp;
 <img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B.svg?&style=for-the-badge&logo=wordpress&logoColor=fff" />&nbsp;
