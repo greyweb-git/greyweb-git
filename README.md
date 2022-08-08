@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to greyweb's profile!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+<h2 align="center">Welcome to greyweb's profile!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?pause=500&width=500&lines=I'm+a+3D+Designer+and+Front-end+Developer..." alt="Typing SVG" /></a>
