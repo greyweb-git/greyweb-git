@@ -17,7 +17,7 @@
 <img alt="github" src="https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff" />&nbsp;
 <img alt="photoshop" src="https://img.shields.io/badge/photoshop-31A8FF.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=fff" />&nbsp;
 <img alt="vs code" src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
-<img alt="figma" src="https://img.shields.io/badge/Figma-%2320232a?style=for-the-badge&logo=figma&logoColor=F24E1E" height="25"/>
+<img alt="figma" src="https://img.shields.io/badge/Figma-BE4321.svg?&style=for-the-badge&logo=figma&logoColor=fff" height="25"/>
 <img alt="blender" src="https://img.shields.io/badge/blender-%2320232a.svg?style=for-the-badge&logo=blender&logoColor=#EA7300" height="25"/>
 ### 🔥 Social and media:
 [![Telegram](https://img.shields.io/badge/-Telegram-161B22?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/greyweb)
