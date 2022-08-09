@@ -25,4 +25,4 @@
 [![Skype](https://img.shields.io/badge/-Skype-161B22?style=for-the-badge&logo=Skype&logoColor=00A6E8)](https://join.skype.com/invite/oKu2qt27wQxA)
 [![Discord](https://img.shields.io/badge/-Discord-161B22?style=for-the-badge&logo=Discord&logoColor=5662F6)](https://discord.com/users/355182920740241408/)
 
-<img width="336" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greyweb-git&theme=atom&layout=compact&hide_border=true" />
+<img width="336" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greyweb-git&theme=github&layout=compact&hide_border=true" />
