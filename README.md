@@ -17,7 +17,7 @@
 <img alt="github" src="https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff" />&nbsp;
 <img alt="photoshop" src="https://img.shields.io/badge/photoshop-31A8FF.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=fff" />&nbsp;
 <img alt="vs code" src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
-### 🔥 Social:
+### 🔥 Social and media:
 [![Telegram](https://img.shields.io/badge/-Telegram-161B22?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/greyweb)
 [![Instagram](https://img.shields.io/badge/-Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=ffffff)](https://www.instagram.com/greyweb/)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-161B22?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/greyweb)
