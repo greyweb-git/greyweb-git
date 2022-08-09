@@ -20,7 +20,7 @@
 <img alt="vs code" src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
 ### 🛠 3D Software and tools:
 <img alt="blender" src="https://img.shields.io/badge/blender-F5792A.svg?&style=for-the-badge&logo=blender&logoColor=fff" />&nbsp;
-<img alt="zbrush" src="https://img.shields.io/badge/zbrush-F5792A.svg?&style=for-the-badge&logo=zbrush&logoColor=fff" />&nbsp;
+<img alt="maya" src="https://img.shields.io/badge/maya-F5792A.svg?&style=for-the-badge&logo=maya&logoColor=fff" />&nbsp;
 ### 🔥 Social and media:
 [![Mail.Ru](https://img.shields.io/badge/-Mail.Ru-161B22?style=for-the-badge&logo=Mail.Ru&logoColor=FF9E00)](greyweb@mail.ru)
 [![Instagram](https://img.shields.io/badge/-Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=FE0F61)](https://www.instagram.com/greyweb/)
