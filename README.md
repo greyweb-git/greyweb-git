@@ -19,7 +19,7 @@
 <img alt="vs code" src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
 <img alt="figma" src="https://img.shields.io/badge/Figma-8149C6.svg?&style=for-the-badge&logo=figma&logoColor=fff" />&nbsp;
 ### 🔥 Social and media:
-[![Instagram](https://img.shields.io/badge/-Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=ffffff)](https://www.instagram.com/greyweb/)
+[![Instagram](https://img.shields.io/badge/-Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=FE0F61)](https://www.instagram.com/greyweb/)
 [![Telegram](https://img.shields.io/badge/-Telegram-161B22?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/greyweb)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-161B22?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/greyweb)
 [![Skype](https://img.shields.io/badge/-Skype-161B22?style=for-the-badge&logo=Skype&logoColor=00A6E8)](https://join.skype.com/invite/oKu2qt27wQxA)
