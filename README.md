@@ -4,7 +4,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?pause=500&color=1FD366&width=500&lines=I'm+a+3D+Designer+and+Front-end+Developer..." alt="Typing SVG" /></a>
 </p>
 
-### 💻 Social:
+### 🔥 Social:
 [![Telegram](https://img.shields.io/badge/-Telegram-161B22?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/greyweb)
 [![Instagram](https://img.shields.io/badge/-Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=ffffff)](https://www.instagram.com/greyweb/)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-161B22?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/greyweb)
