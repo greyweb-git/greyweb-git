@@ -1,4 +1,3 @@
-[![Header](https://static-cdn.jtvnw.net/jtv_user_pictures/9829a186-b105-4d6d-a3f0-e247db1d5ce8-profile_banner-480.png)](https://github.com/greyweb-git)
 <h3 align="center">Welcome to greyweb's profile!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h3>
 <br>
 <p align="center">
@@ -26,3 +25,4 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-161B22?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/greyweb)
 [![Skype](https://img.shields.io/badge/-Skype-161B22?style=for-the-badge&logo=Skype&logoColor=00A6E8)](https://join.skype.com/invite/oKu2qt27wQxA)
 [![Discord](https://img.shields.io/badge/-Discord-161B22?style=for-the-badge&logo=Discord&logoColor=5662F6)](https://discord.com/users/355182920740241408/)
+[![Header](https://static-cdn.jtvnw.net/jtv_user_pictures/9829a186-b105-4d6d-a3f0-e247db1d5ce8-profile_banner-480.png)](https://github.com/greyweb-git)
