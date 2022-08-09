@@ -1,7 +1,6 @@
+[![Header](https://static-cdn.jtvnw.net/jtv_user_pictures/9829a186-b105-4d6d-a3f0-e247db1d5ce8-profile_banner-480.png)](https://github.com/greyweb-git)
 <h3 align="center">Welcome to greyweb's profile!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h3>
 <br>
-
-[![Header](https://static-cdn.jtvnw.net/jtv_user_pictures/9829a186-b105-4d6d-a3f0-e247db1d5ce8-profile_banner-480.png)](https://github.com/greyweb-git)
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?pause=500&color=1FD366&width=500&lines=I'm+a+3D+Designer+and+Front-end+Developer..." alt="Typing SVG" /></a>
 </p>
