@@ -5,11 +5,11 @@
 </p>
 
 ### Socials:
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/greyweb)
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/greyweb/)
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/greyweb)
-[![Skype](https://img.shields.io/badge/-Skype-090909?style=for-the-badge&logo=Skype&logoColor=1195F5)](https://join.skype.com/invite/oKu2qt27wQxA)
-[![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=Discord&logoColor=1195F5)](https://join.skype.com/invite/oKu2qt27wQxA)
+[![Telegram](https://img.shields.io/badge/-Telegram-21262D?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/greyweb)
+[![Instagram](https://img.shields.io/badge/-Instagram-21262D?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/greyweb/)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-21262D?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/greyweb)
+[![Skype](https://img.shields.io/badge/-Skype-21262D?style=for-the-badge&logo=Skype&logoColor=00A6E8)](https://join.skype.com/invite/oKu2qt27wQxA)
+[![Discord](https://img.shields.io/badge/-Discord-21262D?style=for-the-badge&logo=Discord&logoColor=5662F6)](greyweb#9321)
 
 
 ### 💻 Tech Stack:
