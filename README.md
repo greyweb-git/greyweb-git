@@ -24,3 +24,7 @@
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-161B22?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/greyweb)
 [![Skype](https://img.shields.io/badge/-Skype-161B22?style=for-the-badge&logo=Skype&logoColor=00A6E8)](https://join.skype.com/invite/oKu2qt27wQxA)
 [![Discord](https://img.shields.io/badge/-Discord-161B22?style=for-the-badge&logo=Discord&logoColor=5662F6)](https://discord.com/users/355182920740241408/)
+
+<div align="center">
+  <img width="336" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greyweb-git&theme=tokyonight&layout=compact&hide_border=true" />
+</div>
