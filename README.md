@@ -4,13 +4,12 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?pause=500&color=1FD366&width=500&lines=I'm+a+3D+Designer+and+Front-end+Developer..." alt="Typing SVG" /></a>
 </p>
 
-<p align="center">
+### 💻 Social:
 [![Telegram](https://img.shields.io/badge/-Telegram-21262D?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/greyweb)
-[![Instagram](https://img.shields.io/badge/-Instagram-21262D?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/greyweb/)
+[![Instagram](https://img.shields.io/badge/-Instagram-21262D?style=for-the-badge&logo=instagram&logoColor=ffffff)](https://www.instagram.com/greyweb/)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-21262D?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/greyweb)
 [![Skype](https://img.shields.io/badge/-Skype-21262D?style=for-the-badge&logo=Skype&logoColor=00A6E8)](https://join.skype.com/invite/oKu2qt27wQxA)
 [![Discord](https://img.shields.io/badge/-Discord-21262D?style=for-the-badge&logo=Discord&logoColor=5662F6)](greyweb#9321)
-</p>
 
 ### 💻 Tech Stack:
 <img alt="html5" src="https://img.shields.io/badge/html-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=fff" />&nbsp;
