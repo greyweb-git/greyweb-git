@@ -14,7 +14,7 @@
 <img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B.svg?&style=for-the-badge&logo=wordpress&logoColor=fff" />&nbsp;
 ### 🛠 Software and tools:
 <img alt="git" src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=fff" />&nbsp;
-<img alt="github" src="https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff" />&nbsp;
+<img alt="github" src="https://img.shields.io/badge/github-161B22.svg?&style=for-the-badge&logo=github&logoColor=fff" />&nbsp;
 <img alt="figma" src="https://img.shields.io/badge/Figma-8149C6.svg?&style=for-the-badge&logo=figma&logoColor=fff" />&nbsp;
 <img alt="photoshop" src="https://img.shields.io/badge/photoshop-31A8FF.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=fff" />&nbsp;
 <img alt="vs code" src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
