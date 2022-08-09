@@ -22,6 +22,6 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-161B22?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/greyweb)
 [![Instagram](https://img.shields.io/badge/-Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=ffffff)](https://www.instagram.com/greyweb/)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-161B22?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/greyweb)
+[![Mail.Ru](https://img.shields.io/badge/-Mail.Ru-161B22?style=for-the-badge&logo=Mail.Ru&logoColor=FF9E00)](greyweb@mail.ru)
 [![Skype](https://img.shields.io/badge/-Skype-161B22?style=for-the-badge&logo=Skype&logoColor=00A6E8)](https://join.skype.com/invite/oKu2qt27wQxA)
 [![Discord](https://img.shields.io/badge/-Discord-161B22?style=for-the-badge&logo=Discord&logoColor=5662F6)](https://discord.com/users/355182920740241408/)
-[![Mail.Ru](https://img.shields.io/badge/-Mail.Ru-161B22?style=for-the-badge&logo=Mail.Ru&logoColor=FF9E00)](mailto:"greyweb@mail.ru")
