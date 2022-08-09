@@ -13,14 +13,12 @@
 <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-7610F7.svg?&style=for-the-badge&logo=bootstrap&logoColor=fff" />&nbsp;
 <img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B.svg?&style=for-the-badge&logo=wordpress&logoColor=fff" />&nbsp;
 ### 🛠 Software and tools:
+<img alt="blender" src="https://img.shields.io/badge/blender-F5792A.svg?&style=for-the-badge&logo=blender&logoColor=fff" />&nbsp;
 <img alt="git" src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=fff" />&nbsp;
 <img alt="github" src="https://img.shields.io/badge/github-161B22.svg?&style=for-the-badge&logo=github&logoColor=fff" />&nbsp;
 <img alt="figma" src="https://img.shields.io/badge/Figma-8149C6.svg?&style=for-the-badge&logo=figma&logoColor=fff" />&nbsp;
 <img alt="photoshop" src="https://img.shields.io/badge/photoshop-31A8FF.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=fff" />&nbsp;
 <img alt="vs code" src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
-### 🛠 3D Software and tools:
-<img alt="blender" src="https://img.shields.io/badge/blender-F5792A.svg?&style=for-the-badge&logo=blender&logoColor=fff" />&nbsp;
-<img alt="maya" src="https://img.shields.io/badge/maya-F5792A.svg?&style=for-the-badge&logo=maya&logoColor=fff" />&nbsp;
 ### 🔥 Social and media:
 [![Mail.Ru](https://img.shields.io/badge/-Mail.Ru-161B22?style=for-the-badge&logo=Mail.Ru&logoColor=FF9E00)](greyweb@mail.ru)
 [![Instagram](https://img.shields.io/badge/-Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=FE0F61)](https://www.instagram.com/greyweb/)
